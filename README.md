@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- ### 🔭 I’m currently working on:
-- https://github.com/Palutzii/palutzii.github.io as a portfolio page where you can check out all my excercises and projects im working on.
-- This page will be updated throughout the year as I learn more and more.
-- 
-- ### 🌱 I’m currently learning: 
-Frontend development through Nackademin AB in Sweden
+- 🔭 I’m currently working on:
+[Portfolio](https://palutzii.github.io/) page where you can check out all my excercises and projects im working on.
+This page will be updated throughout the year as I learn more and more.
+ 
+- 🌱 I’m currently learning: 
+Frontend development through [Nackademin AB](https://nackademin.se/utbildningar/frontend-utvecklare/) in Sweden
 
 - ⚡ Fun fact about Sweden while you're here: 
 ### Sweden is the 6yh oldest country in Europe
