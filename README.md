@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on:
+- ### 🔭 I’m currently working on:
 - https://github.com/Palutzii/palutzii.github.io as a portfolio page where you can check out all my excercises and projects im working on.
 - This page will be updated throughout the year as I learn more and more.
 - 
-- 🌱 I’m currently learning: 
+- ### 🌱 I’m currently learning: 
 Frontend development through Nackademin AB in Sweden
 
 - ⚡ Fun fact about Sweden while you're here: 
