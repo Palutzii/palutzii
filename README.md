@@ -1,7 +1,7 @@
 # Welcome human 👋
 
 ## 🔭 I’m currently working on:
-[Portfolio](https://palutzii.github.io/)page where you can check out all my excercises and projects im working on.
+[Portfolio](https://palutzii.github.io/) page where you can check out all my excercises and projects im working on.
 This page will be updated throughout the year as I learn more and more.
  
 ## 🌱 I’m currently learning: 
