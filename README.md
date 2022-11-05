@@ -13,4 +13,4 @@ Sweden is one of the world's oldest sovereign nations, with a 1,000-year history
 
 
 ## :computer: You want to get a hold of me? 
-You can reach me [here LinkedIn)](https://www.linkedin.com/in/pavel-sarmiento-5483661a3/) for more info about me or whatever questions you might have. 
+You can reach me [here (LinkedIn)](https://www.linkedin.com/in/pavel-sarmiento-5483661a3/) for more info about me or whatever questions you might have. 
