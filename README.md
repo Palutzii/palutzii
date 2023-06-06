@@ -15,7 +15,7 @@ Currently, I'm honing my skills at Nackademin AB, where I'm diving deep into the
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pavel-sarmiento-5483661a3/) to learn more about my journey or discuss potential collaborations.
 
-## 💻 Currently Working On <a name="currently-working-on"></a>
+## 🚀 Currently Working On <a name="currently-working-on"></a>
 
 I'm currently enrolled in the Frontend Developer program at Nackademin, a highly respected educational institution in Sweden. This intensive two-year program is designed to equip students with the skills and knowledge needed to excel in the field of frontend development.
 
