@@ -1,10 +1,11 @@
 ## Table of Contents
 
-- [About Me](#wave-about-me)
-- [Currently Working On](#currently-working-on)
-- [Skills](#sparkles-skills)
-- [Fun Fact](#tada-fun-fact)
-- [Get in Touch](#iphone-get-in-touch)
+- [About Me](#-about-me)
+- [Currently Working On](#-currently-working-on)
+- [Skills](#️-skills)
+- [Fun Fact](#-fun-fact)
+- [Get in Touch](#-get-in-touch)
+
 
 ## 📚 About Me
 
